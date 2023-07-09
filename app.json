@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "login-signup",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "login-signup",
+    "slug": "login-signup"
+  }
+}
